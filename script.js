@@ -24,6 +24,9 @@ $(document).ready(function() {
   var typed = new Typed('.typing', {
     strings: [
       "WhatsApp Bot",
+      "Bot WhatsApp",
+      "WhatsApp Bot",
+      "Bot WhatsApp",
     ],
     typeSpeed: 120,
     backSpeed: 80,
