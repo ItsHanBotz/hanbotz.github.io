@@ -23,15 +23,7 @@ $(document).ready(function() {
 
   var typed = new Typed('.typing', {
     strings: [
-      "simple",
-      "powerful",
-      "easy to use",
-      "cute",
-      "your Waifu",
-      "made with love",
-      "Hot",
-      "well developed",
-      "nice",
+      "WhatsApp Bot",
     ],
     typeSpeed: 120,
     backSpeed: 80,
